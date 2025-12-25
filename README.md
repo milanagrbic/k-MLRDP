@@ -21,7 +21,7 @@ k-MLRDP/
 └── Results/
 
 
-### 1. `Instances/`
+### 1. Instances
 
 This folder contains the multiplex network instances used in the paper.
 
