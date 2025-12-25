@@ -15,10 +15,15 @@ It is intended to support reproducibility of the experiments and further researc
 The repository is organized into three main directories:
 
 k-MLRDP/
+
 │
+
 ├── Instances/
+
 ├── Exec/
+
 └── Results/
+
 
 
 ### 1. Instances
