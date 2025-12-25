@@ -16,7 +16,6 @@ The repository is organized into three main directories:
 
 k-MLRDP/
 
-│
 
 ├── Instances/
 
