@@ -18,9 +18,8 @@ k-MLRDP/
 
 
 ├── Instances/
-
 ├── Exec/
-
+├── Pre-experimental tests/
 └── Results/
 
 
@@ -58,12 +57,27 @@ The `Exec/` directory contains:
 
 These executables were used to generate the experimental results reported in the study.
 
-### 3. Results
+### 3. Pre-experimental Tests
+
+This folder contains additional experiments used for parameter analysis and methodological validation.
+
+It includes two subdirectories:
+
+-FixedPerturbationSize
+Comparison between dynamic perturbation size adjustment and a fixed perturbation size strategy.
+
+-PerturbationSetInitialization
+Comparison between: Random initialization of the perturbation set VS Neighbourhood-based initialization
+
+### 4. Results
 
 The `Results/` directory contains **detailed experimental results**.
 
 - Results are organized into subfolders **by algorithm**.
 - Each subfolder includes the corresponding output data produced during the experiments.
+- VNS and GA subfolders are further divided into:
+*Random/ → experiments where initial solutions are generated randomly
+*Greedy/ → experiments where initial solutions are generated using a greedy heuristic
 
 
 ## Notes
