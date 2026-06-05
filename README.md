@@ -12,17 +12,7 @@ It is intended to support reproducibility of the experiments and further researc
 
 ## Repository Structure
 
-The repository is organized into three main directories:
-
-k-MLRDP/
-
-
-├── Instances/
-├── Exec/
-├── Pre-experimental tests/
-└── Results/
-
-
+The repository is organized into four main directories:
 
 ### 1. Instances
 
