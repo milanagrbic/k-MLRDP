@@ -1,0 +1,23 @@
+<DIRECTORY>: ../Instances/RandomC/n30-c3-M2-p0 <LAYERS>: 1 <POPULATION_SIZE>: 50 <NUM_GENERATIONS>: 100 <NUM_ELITES>: 2 <MUTATION_PERCENTAGE>: 10 <SELECTION_TYPE>: TOURNAMENT <CROSSOVER_RATE>: 1 <SEED>: 13579 <LOCAL_SEARCH>: FIRST_IMPROVEMENT_LOCAL_SEARCH <TIME_LIMIT_SECONDS>: 3600
+
+Best solution by greedy algorithm: 6
+
+Best individual:
+   0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 
+Soulution is feasible!
+  Layers: 2 
+
+Objective function: 6
+Fitness: 0.200000
+
+Generated 100 generations.
+Algorithm finished in 1.170513 seconds.
+First feasible solution reached at 1. generation.
+Best solution reached at 1. generation, after 0.031054 seconds.
+
+Nodes labeled as 1:
+	
+
+Nodes labeled as 2:
+	5 12 26 
+----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+==================================================
+ALG: vns
+DIRECTORY: ../Instances/RandomC/n30-c3-M2-p0
+LAYERS: 1
+SEED: 13579
+BEST_GREEDY: 6
+GREEDY_TIME: 0.000468
+K_MIN: 2
+K_MAX: 12
+P_MOVE: 0.85
+LOCAL_SEARCH: 1
+FEASIBLE: YES
+ITER: 6137
+OBJECTIVE: 6
+FITNESS: 0.2
+ELAPSED: 1.12781
+SOLUTION:
+  0 0 0 0 0 2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 
+==================================================
+
