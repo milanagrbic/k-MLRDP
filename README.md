@@ -2,7 +2,7 @@
 
 This repository contains datasets, executable versions, and experimental results associated with the paper:
 
-**Multiplex Roman Domination: Efficient Algorithms for Complex Network Control**  
+**Solving Roman Domination in Multiplex Networks: Algorithms and Biological Network Applications**  
 **Authors:** Milana Grbic, Nenad Vilendecic, Aleksandar Kartelj, Dragan Matic
 
 ## Overview
