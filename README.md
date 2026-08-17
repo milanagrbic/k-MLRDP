@@ -51,10 +51,13 @@ These executables were used to generate the experimental results reported in the
 
 This folder contains additional experiments used for parameter analysis and methodological validation.
 
-It includes two subdirectories:
+It includes three subdirectories:
 
 - FixedPerturbationSize
 Comparison between dynamic perturbation size adjustment and a fixed perturbation size strategy.
+
+-GreedyComparison
+Comparison between proposed Greedy method and Greilhuber's greedy.
 
 - PerturbationSetInitialization
 Comparison between: Random initialization of the perturbation set VS Neighbourhood-based initialization
@@ -69,6 +72,7 @@ The `Results/` directory contains **detailed experimental results**.
 Random/ → experiments where initial solutions are generated randomly
 Greedy/ → experiments where initial solutions are generated using a greedy heuristic
 
+-Additionally, the `Variability` folder contains detailed results for the five independently generated instances for each parameter configuration, graph-generation setting, and considered method.
 
 ## Notes
 
